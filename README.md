@@ -48,7 +48,7 @@ The files for this course are provided in a public github repository for you to 
 
 If you are already a git user, you can clone the repo and you're ready to go on to the next step. However, you don't need to set up git or understand how to use it to get the files. Instead, choose the *Download ZIP* option under the *Code* button, and you'll be able to extract all of the files to a directory on your computer. You won't need to understand any more about git to move through the data analysis examples.
 
-TODO: add screenshot
+![Screenshot of github code download link](assets/github_download.png)
 
 ### Structure of the git repo directory
 
@@ -66,9 +66,9 @@ For this course, we will run Python code using [Jupyter notebooks](https://jupyt
 
 When you run the Jupyter notebook application on your computer, two things happen. First, the application starts a local application that acts as a server, to process the Python code that you execute inside of the notebook. This will look like a console window on Windows PC. Second, a file browser will open as a web page in your default web browser.
 
-TODO: add screenshot
+![Screenshot showing Jupyter Notebook app in Windows 10](assets/jupyter_open.png)
 
-If you prefer, you can set up Visual Studio Code to run your Jupyter notebooks. 
+If you are comfortable using Visual Studio Code, you can also use this application to run your Jupyter notebooks. 
 
 ## Beginning the course
 
@@ -87,8 +87,8 @@ Now, you're ready to move into the units. The instructions and code for each les
 | 1 | Introduction to Python & Jupyter notebooks |
 | 2 | Loading engineering data in `numpy` and `pandas` |
 | 3 | Visualizing data in `matplotlib` |
-| 4 | Advanced data visualization in `seaborn` |
-| 5 | Manipulating the `pandas.DataFrame` |
+| 4 | Manipulating the `pandas.DataFrame` |
+| 5 | Statistical analysis using `scipy.stats` |
 | 6 | Regression and classification in `scikit-learn` |
-| 7 | Statistical analysis in `scipy.stats` |
+| 7 | Advanced data visualization in `seaborn` |
 | 8 | Introduction to image analysis in `scikit-image` |
