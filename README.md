@@ -84,11 +84,11 @@ Now, you're ready to move into the units. The instructions and code for each les
 
 |   | Title |
 |---|-------|
-| 1 | Introduction to Python & Jupyter notebooks |
-| 2 | Loading engineering data in `numpy` and `pandas` |
-| 3 | Visualizing data in `matplotlib` |
-| 4 | Manipulating the `pandas.DataFrame` |
-| 5 | Statistical analysis using `scipy.stats` |
-| 6 | Regression and classification in `scikit-learn` |
-| 7 | Advanced data visualization in `seaborn` |
-| 8 | Introduction to image analysis in `scikit-image` |
+| [1](./units/01-introduction/unit01-lesson.ipynb) | Introduction to Python & Jupyter notebooks |
+| [2](./units/02-loading-data/unit02-lesson.ipynb) | Loading engineering data in `numpy` and `pandas` |
+| [3](./units/03-basic-plotting/unit03-lesson.ipynb) | Visualizing data in `matplotlib` |
+| [4](./units/04-pandas-dataframe/unit04-lesson.ipynb) | Manipulating the `pandas.DataFrame` |
+| [5](./units/05-statistics/unit05-lesson.ipynb) | Statistical analysis using `scipy.stats` |
+| [6](./units/06-regression-classification/) | Regression and classification in `scikit-learn` |
+| [7](./units/07-advanced-plotting/unit07-lesson.ipynb) | Advanced data visualization in `seaborn` |
+| [8](./units/08-image-analysis/unit08-lesson.ipynb) | Image analysis using `scikit-image` |
