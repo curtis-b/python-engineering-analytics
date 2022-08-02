@@ -1,7 +1,5 @@
 # Python for Engineering Analytics - Getting Started
 
-A series of lessons to get engineers started with Python for engineering data analysis.
-
 ## Preface
 
 The ability to analyze large datasets is key to solving many engineering challenges. Many engineers will be familiar with spreadsheets or specialized statistical analysis applications for basic data analysis tasks. However, these options can be inefficient for large datasets (leading to slow processing or program crashes), more difficult to automate (to reduce/eliminate routine data processing steps) and do not offer the breadth of tools needed to support more sophisticated forecasting and/or machine-learning analysis.
