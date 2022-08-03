@@ -34,7 +34,7 @@
 
 ## Unit 5
 
-- [`axis.hist()`](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist.html)]
+- [`Axes.hist()`](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist.html)]
 - [`scipy.stats`](https://docs.scipy.org/doc/scipy/tutorial/stats.html)
 
 ## Unit 6
