@@ -49,3 +49,4 @@
 
 - [`scipy.ndimage`](https://docs.scipy.org/doc/scipy/reference/ndimage.html)
 - [*scikit-image* (`skimage`)](https://scikit-image.org/docs/stable/auto_examples/)
+- [`matplotlib` colormaps](https://matplotlib.org/stable/gallery/color/colormap_reference.html)
