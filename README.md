@@ -20,14 +20,6 @@ This course seeks to introduce the (non-programmer) engineer to the Python progr
 - **free-to-use**: there is no cost for you to download and use Python
 - **open-source**: the source code that comprises Python is made available and can be modified by users [https://docs.python.org/3/license.html]
 
-## Why analyze data in Python?
-
-### Flexibility
-
-### Automation
-
-### Speed
-
 ## Installing Python on your computer
 
 There are several ways to install the Python language interpreter on your computer. One of the simplest ways to get up and running quickly is to use the popular [Anaconda Distribution](https://www.anaconda.com/products/distribution) of Python, which conveniently bundles all of the packages that we'll be using in this course into a single installation step. Because it should not require any additional setup, I recommend that you take this route versus installing the required packages individually via pip or miniconda.
@@ -87,6 +79,6 @@ Now, you're ready to move into the units. The instructions and code for each les
 | [3](./units/03-basic-plotting/unit03-lesson.ipynb) | Visualizing data in `matplotlib` |
 | [4](./units/04-pandas-dataframe/unit04-lesson.ipynb) | Manipulating the `pandas.DataFrame` |
 | [5](./units/05-statistics/unit05-lesson.ipynb) | Statistical analysis using `scipy.stats` |
-| [6](./units/06-regression-classification/) | Regression and classification in `scikit-learn` |
+| [6](./units/06-regression-classification/unit06-lesson.ipynb) | Regression and classification in `scikit-learn` |
 | [7](./units/07-advanced-plotting/unit07-lesson.ipynb) | Advanced data visualization in `seaborn` |
 | [8](./units/08-image-analysis/unit08-lesson.ipynb) | Image analysis using `scikit-image` |
